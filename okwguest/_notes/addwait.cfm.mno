@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_groupinfo" value="name:group_id;datatype:,name:group_name;datatype:,name:group_rank;datatype:,name:group_parent_id;datatype:,name:group_key;datatype:" />
+	<infoitem key="UD_parentinfo" value="name:group_id;datatype:,name:group_name;datatype:,name:group_rank;datatype:,name:group_parent_id;datatype:,name:group_key;datatype:" />
+	<infoitem key="UD_checkreglist" value="name:id;datatype:,name:s_client_name;datatype:,name:s_client_password;datatype:,name:b_client_privilege_serveradmin;datatype:,name:group_key;datatype:,name:group_admin;datatype:,name:email;datatype:,name:expire;datatype:,name:guest;datatype:,name:timestamp;datatype:,name:creator;datatype:" />
+	<infoitem key="UD_checkwaitlist" value="name:id;datatype:,name:s_client_name;datatype:,name:s_client_password;datatype:,name:b_client_privilege_serveradmin;datatype:,name:group_key;datatype:,name:group_admin;datatype:,name:email;datatype:,name:expire;datatype:,name:guest;datatype:,name:timestamp;datatype:,name:creator;datatype:" />
+</info>
